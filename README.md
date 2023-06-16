@@ -1,4 +1,4 @@
-# Проектная работа "MESTO REACT"
+# Проектная работа "MESTO REACT-AUTH"
 
 ## Описание
 
@@ -22,4 +22,4 @@
 1. npm i
 2. npm start
 
-[Ссылка на готовый проект](https://sysoev-kirill.github.io/mesto-react/).
+[Ссылка на готовый проект](https://sysoev-kirill.github.io/react-mesto-auth/).
